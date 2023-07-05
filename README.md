@@ -3,7 +3,7 @@
 This is a backend API for a polling system application. It is built using Node.js and MongoDB with the help of the Express framework.
 
 ## Installation
-- Clone the repository using git clone https://github.com/Salonee-Jain/Polling-System-API.git
+- Clone the repository using git clone 
 - Install dependencies using npm install
 - Start the server using npm start
 
